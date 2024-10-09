@@ -16,11 +16,11 @@
 <div align="center">
 <table>
   <tr>
-    <td align="center">
+  <!--  <td align="center">
       <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
       </a>
-    </td>
+    </td>     -->
     <td align="center">
       <a href="https://www.instagram.com/pale_gaurav/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fpale_gaurav%2F&subtitle=@pale_gaurav&size=square" alt="Gaurav Pale">
