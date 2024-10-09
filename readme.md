@@ -23,12 +23,12 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/pale_gaurav/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="Gaurav Pale">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fpale_gaurav%2F&subtitle=@pale_gaurav&size=square" alt="Gaurav Pale">
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/gauravpale/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Gaurav+Pale&size=square" alt="Gaurav Pale">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FGaurav-Pale-179875209%2F&subtitle=@Gaurav+Pale&size=square" alt="Gaurav Pale">
       </a>
     </td>
    <td align="center">
