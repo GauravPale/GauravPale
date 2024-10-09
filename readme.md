@@ -27,7 +27,7 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
+      <a href="https://www.linkedin.com/in/gauravpale/" target="_blank">
         <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="Gaurav Pale">
       </a>
     </td>
