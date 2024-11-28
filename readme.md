@@ -517,7 +517,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </table>
 </div>
 
-<h3 align="center">Streaming & Video Editing</h3>
+<!--<h3 align="center">Streaming & Video Editing</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -554,7 +554,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     </tr>
   </tbody>
 </table>
-</div>
+</div>-->
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
